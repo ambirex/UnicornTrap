@@ -1,3 +1,5 @@
+![It's a trap!](/Unicorn.jpg)
+
 UnicornTrap
 ===========
 
